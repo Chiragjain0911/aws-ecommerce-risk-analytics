@@ -97,9 +97,9 @@ Suggested screenshots:
 
 Quick access:
 
-- Risk Scoring Logic → [`sql_queries/return_risk_scoring.sql`](Return_Risk_Scoring_Model.sql)  
-- Dashboard Dataset → [`sql_queries/dashboard_dataset.sql`](dashboard_dataset.sql)  
-- Dissatisfaction Analysis → [`sql_queries/most_dissatisfying_products.sql`](Most_satisfying_products.sql)  
+- Risk Scoring Logic → [`sql_queries/return_risk_scoring.sql`](sql_queries/Return_Risk_Scoring_Model.sql)  
+- Dashboard Dataset → [`sql_queries/dashboard_dataset.sql`](sql_queries/dashboard_dataset.sql)  
+- Dissatisfaction Analysis → [`sql_queries/most_dissatisfying_products.sql`](sql_queries/Most_satisfying_products.sql)  
 
 ---
 
@@ -121,6 +121,7 @@ Consider giving the repository a star — it helps the project reach more learne
 
 This project is shows my entry level data engineering skills. These skills also help me to sharpen my knowledge in data science.
 At the moment I am ready to contribute my analytical skills in real world projects.
+
 
 
 
